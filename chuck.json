@@ -1,0 +1,81 @@
+{
+    "frases":[
+        {
+            "imagen":"images/chucktellamaaltelefono.jpg",
+            "frase": "Si te llama chuck norris, tienes dos opciones, contestar o contestar",
+            "id": "1",
+            "idioma": "español",
+            "categoria": "tecnologia"
+        },
+        {
+            "imagen":"images/experienciacercanamuerte.jpg",
+            "frase": "En una ocasion la muerte tuvo una experiencia cercana a chuck norris",
+            "id": "2",
+            "idioma": "español",
+            "categoria": "salud"
+        },
+        {
+            "imagen":"images/infartossobrevivieronachuck.jpeg",
+            "frase": "Chuck norris no sobrevivió a dos infartos, los infartos sobrevivieron a chuck norris",
+            "id": "3",
+            "idioma": "español",
+            "categoria": "salud"
+        },
+        {
+            "imagen":"images/lagrimascurancancer.jpg",
+            "frase": "Sus lagrimas curan el cancer. Es una pena que el no ha llorado nunca",
+            "id": "4",
+            "idioma": "español",
+            "categoria": "salud"
+        },
+        {
+            "imagen":"images/martillodethor.jpg",
+            "frase": "Thor sacó su martillo, de la caja de herramientas de chuck norris",
+            "id": "5",
+            "idioma": "español",
+            "categoria": "comics"
+        },
+        {
+            "imagen":"images/noleelibros.jpg",
+            "frase": "Chuck Norris no lee libros. Los mira fijamente hasta que consigue la informacion que quiere...",
+            "id": "6",
+            "idioma": "español",
+            "categoria": "lectura"
+        },
+        {
+            "imagen":"images/nuncaafoteesachuck.png",
+            "frase": "Cuando chuck norris nació... la unica persona que lloró fue el doctor. Nunca afotees a chuck ",
+            "id": "7",
+            "idioma": "español",
+            "categoria": "salud"
+        },
+        {
+            "imagen":"images/pokemonGo.webp",
+            "frase": "Chuck norris ya ha capturado todos los pokemons... desde un telefono fijo",
+            "id": "8",
+            "idioma": "español",
+            "categoria": "tecnologia"
+        },
+        {
+            "imagen":"images/serieporultimavez.png",
+            "frase": "El que rie ultimo, rie mejor. Pero aquel que se rie de chuck, se rie por ultima vez.",
+            "id": "9",
+            "idioma": "español",
+            "categoria": "humor"
+        },
+        {
+            "imagen":"images/teoriadeevolucion.png",
+            "frase": "No hay teoria de la evolucion. Solo una lista de criaturas que chuck deja vivir",
+            "id": "10",
+            "idioma": "español",
+            "categoria": "biologia"
+        },
+        {
+            "imagen":"images/tequedan7dias.jpg",
+            "frase": "La chica del aro llama a chuck norris y chuck le avisa que le quedan 7 dias",
+            "id": "11",
+            "idioma": "español",
+            "categoria": "horror"
+        }
+    ]
+}
