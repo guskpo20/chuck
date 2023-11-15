@@ -22,7 +22,7 @@
             "categoria": "salud"
         },
         {
-            "imagen":"images/lagrimascurancancer.jpg",
+            "imagen":"images/lagrimascurancancer.png",
             "frase": "Sus lagrimas curan el cancer. Es una pena que el no ha llorado nunca",
             "id": "4",
             "idioma": "español",
